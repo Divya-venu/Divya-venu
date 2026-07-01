@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-shree-g-v-22a105214/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Divya-venu)
 [![Gmail](https://img.shields.io/badge/gvdivyashree%40gmail.com-14B8A6?style=flat-square&logo=gmail&logoColor=white)](mailto:gvdivyashree@gmail.com)
 [![Location](https://img.shields.io/badge/Bangalore%2C_India-2C3E50?style=flat-square&logo=googlemaps&logoColor=white)](#)
@@ -21,7 +21,7 @@
 I build both sides of the stack — and secure what's in between.
 
 Currently:  Software Engineer @ Aroha Technologies (2025 – Present)
-Scope:      Frontend (React.js, Blazor) + Backend (Spring Boot microservices)
+Scope:      Frontend (React.js) + Backend (Spring Boot microservices)
             + Identity & Access Management (Keycloak, Midpoint IGA, RSA)
 Patterns:   Singleton · Factory · Builder · Strategy · Observer
 Education:  B.E. Computer Science, East Point College of Engg. & Tech. — CGPA 8.9
@@ -34,17 +34,17 @@ I work across the full stack — building responsive React.js/Blazor front ends,
 ### 🧱 What I Work Across
 
 ```
-┌────────────────────┐        ┌──────────────────────┐        ┌─────────────────────┐
-│   Frontend Layer     │      │   Backend Layer         │      │   Identity & Access   │
-│  React.js · Blazor    │◀────▶│  Spring Boot            │◀────▶│  Keycloak (IAM)        │
-│  Material UI · SPA     │      │  Spring MVC / Security   │      │  Midpoint (IGA)         │
-│  Dashboards · Forms     │      │  REST APIs · JPA          │      │  RSA App Security        │
+┌────────────────────┐        ┌─────────────────────-─┐      ┌─────────────────────┐
+│   Frontend Layer   │        │   Backend Layer       │      │   Identity & Access │
+│  React.js          │ ◀────▶│  Spring Boot          │◀────▶│  Keycloak (IAM)    │
+│  Material UI · SPA │        │  Spring MVC / Security│      │  Midpoint (IGA)     │
+│  Dashboards · Forms│        │  REST APIs · JPA      │      │  RSA App Security   │
 └────────────────────┘        └──────────────────────┘        └─────────────────────┘
                 │                          │                              │
                 ▼                          ▼                              ▼
          ┌────────────┐            ┌────────────┐                ┌────────────┐
-         │  MySQL /     │            │  Oracle SQL   │                │  Role-Based   │
-         │  MongoDB     │            │  RabbitMQ/Kafka│                │  Access Control│
+         │  MySQL /   │            │Oracle SQL   │               │Role-Based   │
+         │  MongoDB   │            │RabbitMQ/Kafka│              │Access Control│
          └────────────┘            └────────────┘                └────────────┘
 ```
 
